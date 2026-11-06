@@ -1,0 +1,21 @@
+pendapatan,tanggungan,status_tempat_tinggal,kendaraan,keputusan
+rendah,banyak,menumpang,tidak punya,layak
+rendah,cukup,kontrak,tidak punya,layak
+sedang,banyak,menumpang,tidak punya,layak
+rendah,tidak punya,milik sendiri,cukup,tidak layak
+sedang,cukup,kontrak,cukup,layak
+tinggi,banyak,kontrak,cukup,tidak layak
+sedang,tidak punya,milik sendiri,banyak,tidak layak
+tinggi,tidak punya,menumpang,cukup,tidak layak
+rendah,banyak,kontrak,cukup,layak
+sedang,cukup,milik sendiri,banyak,tidak layak
+rendah,cukup,menumpang,cukup,layak
+tinggi,cukup,kontrak,tidak punya,tidak layak
+sedang,tidak punya,kontrak,tidak punya,layak
+rendah,banyak,milik sendiri,tidak punya,layak
+tinggi,banyak,menumpang,banyak,tidak layak
+rendah,cukup,milik sendiri,banyak,tidak layak
+sedang,banyak,menumpang,cukup,layak
+sedang,cukup,kontrak,banyak,tidak layak
+tinggi,tidak punya,milik sendiri,cukup,tidak layak
+rendah,tidak punya,kontrak,cukup,layak

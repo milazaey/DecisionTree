@@ -1,0 +1,21 @@
+no,pendapatan,tanggungan,status_tempat_tinggal,kendaraan,keputusan
+1,rendah,banyak,menumpang,tidak punya,layak
+2,rendah,cukup,kontrak,tidak punya,layak
+3,sedang,banyak,menumpang,tidak punya,layak
+4,rendah,tidak punya,milik sendiri,cukup,tidak layak
+5,sedang,cukup,kontrak,cukup,layak
+6,tinggi,banyak,kontrak,cukup,tidak layak
+7,sedang,tidak punya,milik sendiri,banyak,tidak layak
+8,tinggi,tidak punya,menumpang,cukup,tidak layak
+9,rendah,banyak,kontrak,cukup,layak
+10,sedang,cukup,milik sendiri,banyak,tidak layak
+11,rendah,cukup,menumpang,cukup,layak
+12,tinggi,cukup,kontrak,tidak punya,tidak layak
+13,sedang,tidak punya,kontrak,tidak punya,layak
+14,rendah,banyak,milik sendiri,tidak punya,layak
+15,tinggi,banyak,menumpang,banyak,tidak layak
+16,rendah,cukup,milik sendiri,banyak,tidak layak
+17,sedang,banyak,menumpang,cukup,layak
+18,sedang,cukup,kontrak,banyak,tidak layak
+19,tinggi,tidak punya,milik sendiri,cukup,tidak layak
+20,rendah,tidak punya,kontrak,cukup,layak

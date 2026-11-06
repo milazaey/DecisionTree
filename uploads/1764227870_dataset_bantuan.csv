@@ -1,0 +1,21 @@
+No,umur,penghasilan,status_rumah,tanggungan,kelayakan
+1,muda,rendah,kontrak,banyak,ya
+2,muda,sedang,kontrak,sedikit,ya
+3,muda,tinggi,milik sendiri,sedikit,tidak
+4,dewasa,rendah,kontrak,banyak,ya
+5,dewasa,sedang,milik sendiri,banyak,tidak
+6,dewasa,tinggi,milik sendiri,sedikit,tidak
+7,tua,rendah,kontrak,sedikit,ya
+8,tua,sedang,milik sendiri,banyak,tidak
+9,tua,tinggi,milik sendiri,sedikit,tidak
+10,muda,sedang,milik sendiri,banyak,tidak
+11,dewasa,rendah,kontrak,banyak,ya
+12,muda,tinggi,milik sendiri,banyak,tidak
+13,tua,sedang,kontrak,sedikit,ya
+14,dewasa,tinggi,milik sendiri,banyak,tidak
+15,muda,rendah,kontrak,sedikit,ya
+16,dewasa,rendah,milik sendiri,sedikit,ya
+17,tua,rendah,milik sendiri,banyak,ya
+18,muda,sedang,kontrak,banyak,ya
+19,dewasa,sedang,kontrak,sedikit,ya
+20,tua,tinggi,kontrak,banyak,tidak

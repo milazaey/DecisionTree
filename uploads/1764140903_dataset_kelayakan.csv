@@ -1,0 +1,21 @@
+No,Umur,Penghasilan,Status_Rumah,Tanggungan,Kelayakan
+1,Muda,Rendah,Kontrak,Banyak,Ya
+2,Muda,Sedang,Kontrak,Sedikit,Ya
+3,Muda,Tinggi,Milik Sendiri,Sedikit,Tidak
+4,Dewasa,Rendah,Kontrak,Banyak,Ya
+5,Dewasa,Sedang,Milik Sendiri,Banyak,Tidak
+6,Dewasa,Tinggi,Milik Sendiri,Sedikit,Tidak
+7,Tua,Rendah,Kontrak,Sedikit,Ya
+8,Tua,Sedang,Milik Sendiri,Banyak,Tidak
+9,Tua,Tinggi,Milik Sendiri,Sedikit,Tidak
+10,Muda,Sedang,Milik Sendiri,Banyak,Tidak
+11,Dewasa,Rendah,Kontrak,Banyak,Ya
+12,Muda,Tinggi,Milik Sendiri,Banyak,Tidak
+13,Tua,Sedang,Kontrak,Sedikit,Ya
+14,Dewasa,Tinggi,Milik Sendiri,Banyak,Tidak
+15,Muda,Rendah,Kontrak,Sedikit,Ya
+16,Dewasa,Rendah,Milik Sendiri,Sedikit,Ya
+17,Tua,Rendah,Milik Sendiri,Banyak,Ya
+18,Muda,Sedang,Kontrak,Banyak,Ya
+19,Dewasa,Sedang,Kontrak,Sedikit,Ya
+20,Tua,Tinggi,Kontrak,Banyak,Tidak
